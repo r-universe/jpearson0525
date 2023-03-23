@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "micromapST"]
+	path = micromapST
+	url = https://github.com/cran/micromapST
+	shallow = true
+	registered = true
+[submodule "satscanMapper"]
+	path = satscanMapper
+	url = https://github.com/cran/satscanMapper
+	shallow = true
+	registered = true
